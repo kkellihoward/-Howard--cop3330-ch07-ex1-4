@@ -9,6 +9,6 @@
 * Use "sqrt(*number/variable*)" to calculate the square root of number... ex: let x = 4 (\n), sqrt(x) to calculate
 * User can define more than one variable and do calculations... ex: const x=3, (\n) const y=4 (\n), x+y and program will print answer
 * User can calculate powers by typing "pow(*x,i*)" which multiplies the x with itself i times... ex: pow(2,3) which would print 8
-            * pow(*x,i*) can not take in variables, only integers
+  * pow(*x,i*) can not take in variables, only integers
 # You are now ready to use program!
 
