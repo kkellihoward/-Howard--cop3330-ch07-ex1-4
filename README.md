@@ -1,7 +1,7 @@
 # Welcome to Calculator App
 * The calculator can do powers, square root functions, simply addition and subtraction
 * Program can take in decimals, negative numbers(except for sqrt of negative numbers), positive numbers
-* User can type a number/variable +/- a number/variable and program will print answer 
+* User can type *number/variable* +/-  *number/variable* and program will print answer 
 * The calculator allows user to define variables:
   * Use "let" to define a variable that can be changed... ex: let x = 3
   * User can change variable value by typing the name followed by an equal sign and the new wanted value (do not reuse "let" to change the value)... ex: x=4
